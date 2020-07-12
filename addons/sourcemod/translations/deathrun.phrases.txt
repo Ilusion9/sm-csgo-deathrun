@@ -3,22 +3,26 @@
 	"Already Requested to be Terrorist"
 	{
 		"en"			"You already requested to become Terrorist."
+		"ru"			"Вы уже запросили на становление Террористом."
 	}
 	
 	"Terrorist in Next Round"
 	{
 		"en"			"You will become Terrorist in the next round."
+		"ru"			"Вы станете Террористом в следующем раунде."
 	}
 	
 	"Terrorist in X Rounds"
 	{
 		"#format"		"{1:d}"
 		"en"			"You will become Terrorist in {1} rounds."
+		"ru"			"Вы станете Террористом через {1} раунд(а)."
 	}
 	
 	"New Terrorist"
 	{
 		"#format"		"{1:s}"
 		"en"			"{$orange}{1}{$default} is now the Terrorist."
+		"ru"			"{$orange}{1}{$default} теперь Террорист."
 	}
 }
